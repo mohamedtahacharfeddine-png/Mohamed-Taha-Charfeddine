@@ -1,0 +1,6 @@
+{
+  "name": "TBS BA 305 — POM Midterm Mastery Exam (75 Hard MCQs)",
+  "description": "Interactive 75-question hard MCQ exam simulator for Production & Operations Management (BA 305), covering Chapter 1 (Job-Shop Scheduling), Chapter 2 (Project Scheduling), and Past Midterm Exams with live SVG networks, Gantt charts, and step-by-step solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
